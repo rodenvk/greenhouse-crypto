@@ -9,5 +9,5 @@ Current commission: 3%
 
 Servers in production:
 - GREEN-HOUSE-3: active on Mainnet Beta network. Hardware: AMD Ryzen 9 5950x, 128GB DDR4 RAM, 2x 1TB NVME disks Samsung 980 Pro, 1Gbps connectivity. DC location: Dyjix in Paris, France
-- GREEN-HOUSE-4: backup on Mainnet Beta network. Hardware: AMD Ryzen 9 5950x, 128GB DDR4 RAM, 2TB + 1TB NVME disks Samsung 980 Pro, 1Gbps connectivity. DC location: Home-based 1Gbps FTTH access in Paris, France
+- GREEN-HOUSE-4: backup on Mainnet Beta network. Hardware: AMD Ryzen 9 5950x, 128GB DDR4 RAM, 2TB + 1TB NVME disks Samsung 980 Pro, 1Gbps connectivity. DC location: Dyjix in Paris, France
 - GREEN-HOUSE-5: active on Testnet network. Hardware: AMD Milan 7313 EPYC, 256GB RAM, 2x 2TB NVME disks, 10Gbps connectivity. Provider: Edgevana. DC location: Paris, France
