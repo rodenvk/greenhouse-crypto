@@ -14,7 +14,7 @@
 Delegate to our node:
 ``BSRRvjdKd8SHApi3KtTGbzrdhUojitiwAt4xt4nAxbFh``
 
-_Current commission: 3%_
+_Current commission: 0%_
 
 ## Nodes
 
