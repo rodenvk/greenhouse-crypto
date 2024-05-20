@@ -37,7 +37,7 @@ _Current commission: 0%_
 - Datacenter: Dyjix cage at dc2scale [PAR2] near Paris, France
 
 **GREEN-HOUSE-4**
-- Status: active on Testnet Beta network
+- Status: active on Testnet network
 - Hardware: AMD Ryzen 9 5950x, 128GB DDR4 RAM, 2TB + 1TB NVME disks Samsung 980 Pro
 - Network: 1Gbps connectivity
 - Datacenter: Dyjix cage at dc2scale [PAR3] near Paris, France
