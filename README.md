@@ -18,23 +18,29 @@ _Current commission: 0%_
 
 ## Nodes
 
-**GREEN-HOUSE-3**
+**GREEN-HOUSE-1**
 - Status: active on Mainnet Beta network
+- Hardware: AMD EPYC 9274f, 512GB DDR5 RAM, 3x 1TB NVME disks Crucial T705
+- Network: 10Gbps connectivity
+- Datacenter: Dyjix cage at dc2scale [PAR2] near Paris, France
+
+**GREEN-HOUSE-2**
+- Status: active on Mainnet Beta network
+- Hardware: AMD Ryzen 9 7950x3d, 192GB DDR5 RAM, 2x 2TB NVME disks Western Digital Black SN850X
+- Network: 1Gbps connectivity
+- Datacenter: Pebble Host, Coventry, UK
+
+**GREEN-HOUSE-3**
+- Status: active on Testnet network
 - Hardware: AMD Ryzen 9 5950x, 128GB DDR4 RAM, 2x 1TB NVME disks Samsung 980 Pro
 - Network: 1Gbps connectivity
-- Datacenter: Dyjix cage at dc2scale near Paris, France
+- Datacenter: Dyjix cage at dc2scale [PAR2] near Paris, France
 
 **GREEN-HOUSE-4**
-- Status: active on Mainnet Beta network
+- Status: active on Testnet Beta network
 - Hardware: AMD Ryzen 9 5950x, 128GB DDR4 RAM, 2TB + 1TB NVME disks Samsung 980 Pro
 - Network: 1Gbps connectivity
-- Datacenter: Dyjix cage at dc2scale near Paris, France
-
-**GREEN-HOUSE-5**
-- Status: active on Testnet network
-- Hardware: AMD Milan 7313 EPYC, 256GB RAM, 2x 2TB NVME disks
-- Network: 10Gbps connectivity
-- Datacenter: Edgevana, Paris, France
+- Datacenter: Dyjix cage at dc2scale [PAR3] near Paris, France
 
 ## Roadmap
 
