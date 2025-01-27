@@ -24,7 +24,7 @@ _Current commission: 0%_
 - Network: 10Gbps connectivity
 - Datacenter: Dyjix cage at dc2scale [PAR2] near Paris, France
 
-**GREEN-HOUSE-1**
+**GREEN-HOUSE-2**
 - Status: active on Mainnet Beta network
 - Hardware: AMD EPYC 9274f, 512GB DDR5 RAM, 3x 1TB NVME disks Crucial T705
 - Network: 10Gbps connectivity
