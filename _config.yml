@@ -1,3 +1,17 @@
 theme: jekyll-theme-cayman
 title: Green House Crypto
 description: Independent Validator on Solana since 2021
+
+# Enable processing of Markdown files
+plugins:
+  - jekyll-relative-links
+
+# Enable proper linking between markdown files
+relative_links:
+  enabled: true
+  collections: true
+
+# Specify which Markdown files to include
+include:
+  - README.md
+  - SECURITY.md
