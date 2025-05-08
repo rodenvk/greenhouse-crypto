@@ -1,3 +1,8 @@
+---
+title: Green House Crypto Security Policy and Operations
+permalink: /security/
+---
+
 # Green House Crypto Security Policy and Operations
 
 *Security is our highest priority in operating our nodes. This document outlines our comprehensive security approach and operational practices designed to ensure maximum protection, stability, and uninterrupted performance of our validator infrastructure.*
