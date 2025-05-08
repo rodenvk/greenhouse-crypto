@@ -1,4 +1,5 @@
 ---
+title: Green House Crypto
 permalink: /security/
 ---
 
