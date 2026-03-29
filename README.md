@@ -1,5 +1,5 @@
 # Green House Crypto
-#### 🇫🇷 Validator on Solana since 2021
+#### 🇫🇷 Validator on Solana: 2021-2026
 
 ## Identities
 
@@ -9,12 +9,7 @@
 **Testnet Identity Pubkey**:
 ``3sWB3AMv6Rd96cKTgtZBPCKoxDW74eGWcqKPkhHEzF1K``
 
-## Stake delegation
-
-Delegate to our node:
-``BSRRvjdKd8SHApi3KtTGbzrdhUojitiwAt4xt4nAxbFh``
-
-_Current commission: 0%_
+## Retired since Epoch 949 (2026-04-01)
 
 ## Nodes
 
